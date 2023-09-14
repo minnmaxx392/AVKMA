@@ -1,0 +1,145 @@
+malware_family,family_encoding
+benign,1
+trojan,2
+virus virut,3
+trojan fareit,4
+adware,5
+adware multiplug,6
+adware hotbar,7
+trojan vilsel,8
+adware megasearch,9
+virus ramnit,10
+adware domaiq,11
+trojan msil,12
+trojan startpage,13
+trojan loadmoney,14
+worm,15
+virus sality,16
+trojan zbot,17
+worm allaple,18
+trojan crcf,19
+adware browsefox,20
+virus,21
+adware mplug,22
+trojan ekstak,23
+trojan onlinegames,24
+trojan emotet,25
+virus parite,26
+ransomware gandcrab,27
+adware ibryte,28
+trojan zusy,29
+trojan graftor,30
+trojan ursnif,31
+trojan symmi,32
+trojan installmonster,33
+downloader,34
+trojan antifw,35
+adware installcore,36
+trojan mint,37
+trojan razy,38
+trojan kazy,39
+trojan vobfus,40
+trojan ramnit,41
+virus expiro,42
+trojan autoit,43
+trojan dreidel,44
+trojan lineage,45
+adware gamevance,46
+trojan installcore,47
+trojan vbkrypt,48
+trojan installrex,49
+virus alman,50
+worm mydoom,51
+trojan lamer,52
+trojan tepfer,53
+adware linkury,54
+trojan morstar,55
+adware softpulse,56
+trojan domaiq,57
+trojan rootkit,58
+downloader bundler,59
+trojan strictor,60
+worm vobfus,61
+trojan androm,62
+virus virlock,63
+trojan elzob,64
+trojan hupigon,65
+trojan ursu,66
+trojan sality,67
+trojan barys,68
+trojan bundler,69
+trojan deepscan,70
+trojan dialer,71
+trojan ponystealer,72
+adware outbrowse,73
+downloader adload,74
+trojan softpulse,75
+trojan installerex,76
+trojan gandcrab,77
+adware imali,78
+trojan ulise,79
+worm sytro,80
+trojan farfli,81
+trojan vbkryjetor,82
+trojan rimecud,83
+virus madangel,84
+trojan vundo,85
+trojan ircbot,86
+trojan zlob,87
+trojan bifrose,88
+trojan mikey,89
+trojan swizzor,90
+trojan noon,91
+miner,92
+trojan virut,93
+trojan archsms,94
+adware bundler,95
+trojan adload,96
+trojan genome,97
+trojan zegost,98
+trojan ibryte,99
+adware firseria,100
+trojan mira,101
+trojan darkkomet,102
+trojan doina,103
+worm autoit,104
+trojan buzus,105
+trojan loring,106
+trojan zaccess,107
+trojan midie,108
+trojan stone,109
+trojan flystudio,110
+trojan nsis,111
+trojan firseria,112
+trojan downloadadmin,113
+trojan sirefef,114
+trojan cerbu,115
+trojan bladabindi,116
+adware soft32downloader,117
+trojan forcestartpage,118
+adware bundlore,119
+trojan bdmj,120
+trojan upatre,121
+virus jadtre,122
+adware fiseria,123
+worm viking,124
+adware downloadware,125
+pua,126
+hacktool,127
+ransomware,128
+dropper,129
+banker,130
+spyware,131
+bundler,132
+fakeav,133
+creprote,134
+presenoker,135
+firseriainstaller,136
+slimware,137
+poison,138
+relevantknowledge,139
+hiderun,140
+rootkit,141
+netmedia,142
+autoit,143
+pwdump,144

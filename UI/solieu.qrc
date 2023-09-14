@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="thongke">
+    <file>ChartRemake.png</file>
+    <file>report.png</file>
+    <file>Accuracy.png</file>
+    <file>ChartMalware.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
